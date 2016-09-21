@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "GetLottozahlen",
+      "slots": [
+        {
+          "name": "Ziehung",
+          "type": "LIST_OF_ZIEHUNGEN"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
